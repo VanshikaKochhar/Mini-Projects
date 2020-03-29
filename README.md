@@ -1,2 +1,2 @@
 # Mini-Projects
-Road: Leanring Web-Dev - Mini-Projects
+Road: Learning Web-Dev - Mini-Projects
